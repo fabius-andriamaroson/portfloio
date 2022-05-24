@@ -41,6 +41,17 @@ section {
     width: 100%;
 }
 
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #040F16;
+}
+
+::-webkit-scrollbar-thumb {
+    background: radial-gradient(#040F16, #0B4F6C);
+}
 
 
 /*##### HERO SECTION #####*/
